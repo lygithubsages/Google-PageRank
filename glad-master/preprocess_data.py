@@ -13,8 +13,8 @@ root_dir = os.path.dirname(__file__)
 data_dir = os.path.join(root_dir, 'data', 'woz')
 
 
-draw = os.path.join(data_dir, 'raw')
-dann = os.path.join(data_dir, 'ann')
+#draw = os.path.join(data_dir, 'raw')
+#dann = os.path.join(data_dir, 'ann')
 
 splits = ['dev', 'train', 'test']
 
